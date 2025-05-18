@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2025-05-18T14:55:03.455281+05:30"
+    description: A Helm chart for deploying Nginx to Kubernetes
+    digest: f6486ff77d24d62553e791dc6c597c4b871203c6f0d2e53040c8e1a369e30ce7
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-05-18T14:55:03.45453+05:30"
